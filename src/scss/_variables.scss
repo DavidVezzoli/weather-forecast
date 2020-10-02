@@ -1,0 +1,19 @@
+$generic-color: green;
+$night: darkblue;
+$dawn: violet;
+$morning: rgb(115, 178, 238);
+$midday: rgb(89, 125, 247);
+$afternoon: rgb(110, 107, 248);
+$dusk: rgb(205, 78, 255);
+
+$ground-level: 27.5%;
+
+:export {
+    generic: $generic-color; 
+    night: $night;
+    dawn: $dawn;
+    morning: $morning;
+    midday: $midday;;
+    afternoon: $afternoon;
+    dusk: $dusk;
+}

@@ -1,0 +1,9 @@
+.slideUp-enter-active,
+.slideUp-leave-active {
+    transition: transform .4s ease-out;
+}
+
+.slideUp-enter,
+.slideUp-leave-to {
+    transform: translateY(400px);
+}
